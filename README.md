@@ -1,10 +1,11 @@
 # EightQueens
-Eight Queens Puzzle
+* Eight Queens Puzzle
 
 -------------------------------------------------------------------------------
 
 ## Overview
-This is the Eight Queens puzzle, exercise for 2D array.
+* This is the Eight Queens puzzle, exercise for 2D array.
+* The goal is to place all 8 queens ('Q') in a diagonal position.
 
 -------------------------------------------------------------------------------
 
